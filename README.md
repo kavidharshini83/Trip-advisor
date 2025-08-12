@@ -15,18 +15,7 @@ I designed a modern travel booking homepage using HTML & CSS, inspired by Tripad
 
 💻 This project helped me sharpen my frontend development skills and focus on creating user-friendly, professional designs.
 
-#HTML #CSS #WebDesign #FrontendDevelopment #TravelWebsite #UIUX #CodingProjects
-
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
+#HTML #CSS #WebDesign #FrontendDevelopment #TravelWebsite #UIUX #CodingProjec
 
 
 
